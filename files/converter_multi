@@ -1,0 +1,7 @@
+https://git.uupdump.net/uup-dump/converter/raw/commit/65030a1e6928dc05b163e49cf23882eb8fefccd4/convert.sh
+  out=convert.sh
+  checksum=sha-256=fde98886a8d0c15de9c685a3b5bd19e66ddbbcde9fda634c7af1aa0720c2b9fc
+
+https://git.uupdump.net/uup-dump/converter/raw/commit/65030a1e6928dc05b163e49cf23882eb8fefccd4/convert_ve_plugin
+  out=convert_ve_plugin
+  checksum=sha-256=02db2f5f2caf742daa6aeaa189d9af27775e8457db48fadd8d71bb1be5982eae
